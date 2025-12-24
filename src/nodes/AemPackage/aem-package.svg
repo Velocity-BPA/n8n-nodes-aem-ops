@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="aemGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FA0F00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EB1000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="15" fill="url(#aemGrad3)"/>
+  <g fill="white">
+    <!-- Package/Box icon -->
+    <path d="M50 15 L80 30 L80 70 L50 85 L20 70 L20 30 Z" fill="none" stroke="white" stroke-width="4"/>
+    <line x1="50" y1="15" x2="50" y2="85" stroke="white" stroke-width="3"/>
+    <line x1="20" y1="30" x2="80" y2="30" stroke="white" stroke-width="3"/>
+    <path d="M50 50 L80 35" stroke="white" stroke-width="2"/>
+    <path d="M50 50 L20 35" stroke="white" stroke-width="2"/>
+  </g>
+</svg>
